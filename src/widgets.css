@@ -1,0 +1,29 @@
+.widgets{
+    position: sticky;
+    top: 80px;
+    flex: 0.2;
+    border-radius: 10px;
+    text-align:center;
+    height: fit-content;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.widgets h4{
+    font-size: 16;
+    font-weight: 400;
+}
+
+.newTags{
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between  ;
+}
+
+.news{
+    margin-top: 10px;
+}
